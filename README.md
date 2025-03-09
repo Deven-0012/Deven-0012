@@ -6,6 +6,7 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 
 
 🛠️ Tech Stack
+
 🚀 Primary Tech Stack
 
 ![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
