@@ -2,7 +2,7 @@
 
 I am a Graduate Student at San Jose State University (SJSU) doing Master's in Computer Software Engineering. I have over 1 year of experience in MERN Stack Development. Moreover, i having done my internship in AI/ML field, created a chatbot for dietician.
 
-🌱 I’m currently learning Cloude Dev
+🌱 I’m currently learning Cloude Dev, Next.js
 
 
 ## 🛠️  Tech Stack**  
@@ -52,7 +52,3 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 
 ###
 
-<img src="https://raw.githubusercontent.com/Deven-0012/Deven-0012/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-
-###
