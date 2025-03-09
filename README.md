@@ -5,7 +5,7 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 🌱 I’m currently learning Cloude Dev
 
 
-🛠️ Tech Stack
+## 🛠️ **## Tech Stack**  
 
 🚀 Primary Tech Stack
 
