@@ -15,7 +15,7 @@ jobs:
           github_user_name: Deven-0012
           outputs: dist/github-contribution-grid-snake.svg
 
-      - name: Push to GitHub
+      - name: Upload Snake Animation Artifact
         uses: actions/upload-artifact@v3
         with:
           name: snake-animation
