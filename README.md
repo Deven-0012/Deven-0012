@@ -8,8 +8,8 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 🛠️ Tech Stack
 🚀 Primary Tech Stack
 
-<span style="background-color:#61DAFB; color:#000; padding:5px 10px; border-radius:5px;">ReactJS</span>
-<span style="background-color:#339933; color:#fff; padding:5px 10px; border-radius:5px;">NodeJS</span>
-<span style="background-color:#000000; color:#fff; padding:5px 10px; border-radius:5px;">ExpressJS</span>
-<span style="background-color:#3776AB; color:#fff; padding:5px 10px; border-radius:5px;">Python</span>
-<span style="background-color:#00599C; color:#fff; padding:5px 10px; border-radius:5px;">C++</span>
+![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)  
+![NodeJS](https://img.shields.io/badge/-NodeJS-339933?style=for-the-badge&logo=node.js&logoColor=white)  
+![ExpressJS](https://img.shields.io/badge/-ExpressJS-000000?style=for-the-badge&logo=express&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
