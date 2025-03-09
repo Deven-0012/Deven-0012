@@ -15,13 +15,6 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-
-<h1 align="left">🎯 Hello, I'm Deven Desai and i am a grad student based in SJ, CA 👋</h1>
-
-###
-
-<p align="left">I am a Graduate Student at San Jose State University (SJSU) doing Master's in Computer Software Engineering. I have over 1 year of experience in MERN Stack Development. Moreover, i having done my internship in AI/ML field, created a chatbot for dietician.</p>
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -59,6 +52,7 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 
 ###
 
-<img src="https://raw.githubusercontent.com/Deven-0012/Deven-0012/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Deven-0012/Deven-0012/main/dist/github-contribution-grid-snake.svg" alt="Snake animation" />
+
 
 ###
