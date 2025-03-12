@@ -54,3 +54,10 @@ I am a Graduate Student at San Jose State University (SJSU) doing Master's in Co
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
+
+###
+
+<img src="https://raw.githubusercontent.com/Deven-0012/Deven-0012/output/snake.svg" alt="Snake animation" />
+
+###
+
