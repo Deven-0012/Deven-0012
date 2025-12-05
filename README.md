@@ -81,9 +81,8 @@ I have **1+ year of experience in MERN Stack Development**, and I’ve also comp
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/Deven-0012/Deven-0012/blob/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <img src="https://github.com/Deven-0012/Deven-0012/blob/output/neon-snake.svg" alt="Neon Contribution Snake" />
 </p>
-
 
 
 
