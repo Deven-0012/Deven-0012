@@ -5,9 +5,13 @@ on:
     - cron: "0 0 * * *"   # runs once a day
   workflow_dispatch:
 
+permissions:
+  contents: write   # REQUIRED so GitHub can push to branches
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
